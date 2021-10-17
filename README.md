@@ -37,3 +37,9 @@ Group Members:
 ### NN Diagram Screenshot
 
 ---
+
+### NETWORK OUTPUT
+
+![output_image](assets/output.png)
+
+---
